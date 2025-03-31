@@ -14,7 +14,7 @@
     "lint": "eslint --fix --ext .ts,.tsx src",
     "preview": "vite preview"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   }
